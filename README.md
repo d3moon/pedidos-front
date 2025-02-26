@@ -3,9 +3,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 
-### Precisa do backend em: 
+### Precisa do backend em:  hhtps://github.com/d3moon/pedidos-back
 
-First, run the development server: hhtps://github.com/d3moon/pedidos-bacck
+First, run the development server
 
 ```bash
 npm run dev
