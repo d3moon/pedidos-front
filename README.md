@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+
+### Precisa do backend em: 
+
+First, run the development server: hhtps://github.com/d3moon/pedidos-bacck
 
 ```bash
 npm run dev
